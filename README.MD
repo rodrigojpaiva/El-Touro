@@ -5,6 +5,13 @@
 2. Android Studio@latest
 3. React Native 0.51+
 
+## Participantes 
+1. Rodrigo
+2. Handrey
+3. Augusto
+4. Thamiris
+5. Lindomar
+
 ## Instalação APP
 1. Clone o projeto
 2. Instale os pacotes com `npm install`
